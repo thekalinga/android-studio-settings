@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="lball" value="@lombok.Getter&#10;@lombok.Setter&#10;@lombok.Builder&#10;@lombok.NoArgsConstructor&#10;@lombok.AllArgsConstructor" description="Lombok builder all" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

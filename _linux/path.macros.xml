@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="ANDROID_HOME" value="/home/thekalinga/Android/Sdk" />
+    <macro name="MAVEN_REPOSITORY" value="/home/thekalinga/.m2/repository" />
+  </component>
+</application>
